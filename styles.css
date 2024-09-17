@@ -4,12 +4,16 @@
 p {
     transition: all 400ms;
 }
+
+/*styling for the box around "I will be hidden"*/
 #hide-me, #show-me {
     border: 4px solid crimson;
     border-radius: 8px;
     padding: 4px 8px;
     width: 10em;
 }
+
+/*styling for the box around show me*/
 #show-me {
     border-color: green;
     margin-left: 11em;
